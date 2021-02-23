@@ -1,0 +1,28 @@
+body{
+    background-image: url("it.jpg");
+}
+h1 {
+    color: khaki;
+    text-align: center;
+}
+h2{
+    color: aliceblue;
+    font-family: sans-serif;
+    font-size: larger;
+    text-align: center;
+
+}
+h3{
+
+}
+p{
+    color: darkorange;
+    text-align: center;
+}
+a:link{
+    color: azure;
+}
+a:hover{
+    color: red;
+    background-color: transparent;
+}
